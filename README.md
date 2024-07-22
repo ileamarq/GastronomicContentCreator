@@ -1,6 +1,13 @@
-Gastronomic Content Creator Assistant
-Many people will find it very useful, my application is a ‘Gastronomy Content Creator’, specially designed for the creation of food content.
-The way to use it is quite simple, just type the name of the recipe, then click on the generate recipe button and that's it! The AI will do the magic.
-If you don't want to search for a traditional recipe it doesn't matter, you can also put in ingredients of your choice and the wizard will give you a fabulous recipe. 
-Every time you want to use the wizard is an opportunity to create and innovate.
-This wizard becomes a wonderful tool totally available for everyone to use, mainly for those who are looking to stand out in the world of gastronomic content creation with a tidy and simple writing.
+To install the "Gastronomic Content Creator" application we start by doing the following:
+1- Clone repository.
+2- Create an account in Dify.ai
+3- Configure the app inside Dify:
+-Paste prompt found in the file "Indicate Dify.txt".
+-Configure app variables {{text}}
+-Configure API KEY from Groq provider
+- Select Groq model llama3-8b-8192 as vendor.
+4-Configure Dify's APP KEY in Replit
+5-Connect to Streamlit Cloud
+6-Configure DIFY APP KEY in Streamlit Cloud
+7-Make the deployment
+Note: you can get different results by changing providers and models within Dify.AI.  
