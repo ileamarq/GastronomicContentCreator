@@ -115,8 +115,6 @@ Streamlit Cloud shows us all the applications we have created, and we must choos
 
 A window will open where we will choose the option of Secrets, and it is there where we will place the ‘Dify_APP_SECRET’, we can see how it is obtained in step 3 (Get Dify APP key), finally we click on save.
 
-![streamlit 1](https://github.com/user-attachments/assets/44fb1540-441e-4db3-9ab7-895d42e00d0c)
-
 Deploy the app.
 Test the app.
 
