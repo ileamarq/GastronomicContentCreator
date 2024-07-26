@@ -1,3 +1,8 @@
+## Elaboration of a Gastronomic Content Creator APP
+
+Welcome to the creation of my application where the AI can generate quality content on culinary topics, getting a complete and detailed information about the elaboration of a recipe has been one of the main reasons to create this APP.
+
+To develop the PPP ‘Gastronomy Content Creator’ we started by doing the following:
 
 # GASTRONOMIC CONTENT CREATOR
 ## 1-Getting account credentials:
@@ -18,6 +23,7 @@ You can create your Dify account here:
 ![crear cuenta en dify](https://github.com/user-attachments/assets/9cc4073b-7021-4ccc-ac84-47df2aa5d33c)
 
 ## 2-Dify assistant config:
+
 - Add Groq as Model Provider:
 Once you have your Dify account, look for the user area in the top right corner, there click on settings..
 
@@ -52,6 +58,7 @@ We choose the variable that we will use (text), you must choose in the field tha
 - Save settings.
   
 ##  3-Get Dify APP key:
+
 - Access the Dify API Key
 Dify has in its upper left side a section called Orchestrate, there we will see a window with several options, we are interested in the option that says API Access, by clicking there we can see the documentation of the API Key that Dify offers us.
 
@@ -115,9 +122,13 @@ Streamlit Cloud shows us all the applications we have created, and we must choos
 
 A window will open where we will choose the option of Secrets, and it is there where we will place the ‘Dify_APP_SECRET’, we can see how it is obtained in step 3 (Get Dify APP key), finally we click on save.
 
+![API Key Secret Streamlit](https://github.com/user-attachments/assets/7ae472b1-1a75-491d-bf94-81431aec7d5a)
+
 Deploy the app.
 Test the app.
 
 ![como se ve la aplicacion](https://github.com/user-attachments/assets/613487b3-9416-4faa-b68b-78ac8d23cf67)
 
 ![Screenshot (45)](https://github.com/user-attachments/assets/d16b482a-72b8-4bfc-a8c7-6b2afbdbac2d)
+
+
